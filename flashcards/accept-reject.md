@@ -94,4 +94,3 @@ We have already calculated \( \mathbb{P}(B) = p = \frac{1}{M} \). Now, we calcul
 Putting it all together, we have
 \[ \mathbb{P}(Y \leq y \mid U \leq \frac{f(Y)}{M g(Y)}) = \frac{\frac{1}{M} \cdot \frac{F(y)}{G(y)} \cdot G(y)}{\frac{1}{M}} = F(y) \]
 
-
